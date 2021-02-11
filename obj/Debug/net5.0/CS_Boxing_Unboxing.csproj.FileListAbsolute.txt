@@ -1,0 +1,16 @@
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Boxing_Unboxing/bin/Debug/net5.0/CS_Boxing_Unboxing
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Boxing_Unboxing/bin/Debug/net5.0/CS_Boxing_Unboxing.deps.json
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Boxing_Unboxing/bin/Debug/net5.0/CS_Boxing_Unboxing.runtimeconfig.json
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Boxing_Unboxing/bin/Debug/net5.0/CS_Boxing_Unboxing.runtimeconfig.dev.json
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Boxing_Unboxing/bin/Debug/net5.0/CS_Boxing_Unboxing.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Boxing_Unboxing/bin/Debug/net5.0/ref/CS_Boxing_Unboxing.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Boxing_Unboxing/bin/Debug/net5.0/CS_Boxing_Unboxing.pdb
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Boxing_Unboxing/obj/Debug/net5.0/CS_Boxing_Unboxing.csprojAssemblyReference.cache
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Boxing_Unboxing/obj/Debug/net5.0/CS_Boxing_Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Boxing_Unboxing/obj/Debug/net5.0/CS_Boxing_Unboxing.AssemblyInfoInputs.cache
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Boxing_Unboxing/obj/Debug/net5.0/CS_Boxing_Unboxing.AssemblyInfo.cs
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Boxing_Unboxing/obj/Debug/net5.0/CS_Boxing_Unboxing.csproj.CoreCompileInputs.cache
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Boxing_Unboxing/obj/Debug/net5.0/CS_Boxing_Unboxing.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Boxing_Unboxing/obj/Debug/net5.0/ref/CS_Boxing_Unboxing.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Boxing_Unboxing/obj/Debug/net5.0/CS_Boxing_Unboxing.pdb
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Boxing_Unboxing/obj/Debug/net5.0/CS_Boxing_Unboxing.genruntimeconfig.cache
